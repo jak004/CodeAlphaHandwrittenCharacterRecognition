@@ -10,8 +10,6 @@ Built as part of the **CodeAlpha** internship program.
 
 Draw a character on the canvas and click **Predict** — the model returns the top 5 guesses with confidence scores.
 
-![demo](https://raw.githubusercontent.com/jak004/CodeAlphaHandwrittenCharacterRecognition/main/demo.png)
-
 ---
 
 ## Model Architecture
